@@ -41,6 +41,10 @@ The full Animara pack has hundreds of animated devices: washing machines, air co
 
 **See them all at [animara.io](https://animara.io)**
 
+## License
+
+The 12 sampler icons and this card are MIT licensed (see LICENSE). The full Animara pack is sold separately under its own license at [animara.io](https://animara.io).
+
 ## Support
 
 Questions or ideas? Write to animara.icons@gmail.com.
