@@ -10,6 +10,16 @@ Bulb, table lamp, wall switch, smart plug, ceiling fan, door lock, door sensor, 
 
 The card picks the right icon and state from your entity automatically, and you set everything up with dropdowns.
 
+## The easy way: one link (recommended)
+
+We made this way especially for our users, so anyone can install it in a few minutes, with no files to copy.
+
+1. In Home Assistant, open your user profile (bottom left) and turn on **Advanced mode**.
+2. Go to **Settings, Dashboards**, open the three dot menu, choose **Resources**, then **Add resource**.
+3. Paste `https://animara.io/ha/animara-free.js`, choose **JavaScript module**, then **Create**, and reload your browser.
+
+Every screen keeps its own copy, so it keeps working when the internet is down. Step by step: [animara.io/install](https://animara.io/install/).
+
 ## Install with HACS
 
 1. Open HACS, then the three dot menu, then **Custom repositories**.
@@ -37,14 +47,6 @@ Layouts: `tile` (default), `rich` and `icon`.
 
 ## Want every device?
 
-The full Animara pack has hundreds of animated devices: washing machines, air conditioners, hot tubs, espresso machines, speakers, solar, security and much more, plus standalone SVG files and an openHAB set. One payment, free updates, up to 3 homes.
+The full Animara pack has 300 animated devices with 792 states: washing machines, air conditioners, hot tubs, espresso machines, speakers, solar, security and much more, plus standalone SVG files and an openHAB set. One payment, free updates, up to 3 homes.
 
-**See them all at [animara.io](https://animara.io)**
-
-## License
-
-The 12 sampler icons and this card are MIT licensed (see LICENSE). The full Animara pack is sold separately under its own license at [animara.io](https://animara.io).
-
-## Support
-
-Questions or ideas? Write to animara.icons@gmail.com.
+There are also two dashboards built on these icons: **Animara Home**, a complete Home Assistant dashboard that builds itself from your rooms and devices, and **Animara Showroom**, your home on a wall screen, one device at a time. See them working at [animara.io](https://animara.io).
