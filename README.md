@@ -18,13 +18,11 @@ We made this way especially for our users, so anyone can install it in a few min
 2. Go to **Settings, Dashboards**, open the three dot menu, choose **Resources**, then **Add resource**.
 3. Paste `https://animara.io/ha/animara-free.js`, choose **JavaScript module**, then **Create**, and reload your browser.
 
-Every screen keeps its own copy, so it keeps working when the internet is down. Step by step: [animara.io/install](https://animara.io/install/).
+Every screen keeps its own copy, so it keeps working when the internet is down. Step by step: [animara.io/install](https://animara.io/install/?utm_source=github&utm_medium=readme&utm_campaign=sampler-install).
 
-## Install with HACS
+## Install with HACS (or the Home Assistant Marketplace)
 
-1. Open HACS, then the three dot menu, then **Custom repositories**.
-2. Add `https://github.com/animaraicons/animara-free-sampler` with the type **Dashboard**.
-3. Find **Animara Free Sampler** in HACS, download it, and reload your browser.
+Animara Free Sampler is in the HACS default list. Open HACS (or the Marketplace in Home Assistant 2026.11), search **Animara Free Sampler**, download it, and reload your browser.
 
 ## Install by hand
 
@@ -47,6 +45,12 @@ Layouts: `tile` (default), `rich` and `icon`.
 
 ## Want every device?
 
-The full Animara pack has 300 animated devices with 792 states: washing machines, air conditioners, hot tubs, espresso machines, speakers, solar, security and much more, plus standalone SVG files and an openHAB set. One payment, free updates, up to 3 homes.
+The full Animara pack has 307 animated devices with 808 real states: washing machines, air conditioners, hot tubs, espresso machines, speakers, solar, security and much more, plus standalone SVG files and an openHAB set. One payment, free updates, up to 3 homes.
 
-There are also two dashboards built on these icons: **Animara Home**, a complete Home Assistant dashboard that builds itself from your rooms and devices, and **Animara Showroom**, your home on a wall screen, one device at a time. See them working at [animara.io](https://animara.io).
+There are also ready Home Assistant dashboards built on these icons, all of which build themselves from your rooms:
+
+- **Animara Float**, a glass dashboard where every device floats above its own tile and lamps throw their real light. [Try it live](https://animara.io/?utm_source=github&utm_medium=readme&utm_campaign=sampler-float#try-float)
+- **Animara Home**, a complete dashboard for phones, tablets and wall panels.
+- **Animara Showroom**, your home on a wall screen, one device at a time.
+
+See everything at [animara.io](https://animara.io/?utm_source=github&utm_medium=readme&utm_campaign=sampler-full).
